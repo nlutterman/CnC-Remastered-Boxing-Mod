@@ -1,5 +1,13 @@
+
+# Visual Studio files
+.vs/
 *.user
 /.vs
 /bin
 /REDALERT/Win32
 /TIBERIANDAWN/Win32
+
+# Output object and binary folders
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/

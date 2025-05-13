@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -197,6 +197,7 @@
     <ClInclude Include="CONNMGR.H" />
     <ClInclude Include="CONQUER.H" />
     <ClInclude Include="CONTROL.H" />
+    <ClInclude Include="COORDA.h" />
     <ClInclude Include="CREDITS.H" />
     <ClInclude Include="CREW.H" />
     <ClInclude Include="DDE.H" />
@@ -206,6 +207,7 @@
     <ClInclude Include="DIAL8.H" />
     <ClInclude Include="DISPLAY.H" />
     <ClInclude Include="DLLInterface.h" />
+    <ClInclude Include="DLLInterfaceVersion.h" />
     <ClInclude Include="DOOR.H" />
     <ClInclude Include="DPMI.H" />
     <ClInclude Include="DRIVE.H" />
